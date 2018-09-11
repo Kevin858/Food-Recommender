@@ -1,6 +1,7 @@
 
 # Food-Recommender
 Machine Learning Product Design : Adverse Food Events Dataset
+https://www.kaggle.com/fda/adverse-food-events
 
 The 90k+ data set is about foods and the symptoms that related to these foods, plus the ages, genders of the people who had these foods.
 
